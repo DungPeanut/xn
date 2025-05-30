@@ -1,0 +1,14 @@
+C:\Users\ADMIN\OneDrive\Desktop\Khách Hàng Luxury\Khách Hàng Luxury\bin\Debug\Khách Hàng Luxury.exe.config
+C:\Users\ADMIN\OneDrive\Desktop\Khách Hàng Luxury\Khách Hàng Luxury\bin\Debug\Khách Hàng Luxury.exe
+C:\Users\ADMIN\OneDrive\Desktop\Khách Hàng Luxury\Khách Hàng Luxury\bin\Debug\Khách Hàng Luxury.pdb
+C:\Users\ADMIN\OneDrive\Desktop\Khách Hàng Luxury\Khách Hàng Luxury\obj\Debug\Khách Hàng Luxury.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive\Desktop\Khách Hàng Luxury\Khách Hàng Luxury\obj\Debug\Khách_Hàng_Luxury.Form1.resources
+C:\Users\ADMIN\OneDrive\Desktop\Khách Hàng Luxury\Khách Hàng Luxury\obj\Debug\Khách_Hàng_Luxury.Properties.Resources.resources
+C:\Users\ADMIN\OneDrive\Desktop\Khách Hàng Luxury\Khách Hàng Luxury\obj\Debug\Khách Hàng Luxury.csproj.GenerateResource.cache
+C:\Users\ADMIN\OneDrive\Desktop\Khách Hàng Luxury\Khách Hàng Luxury\obj\Debug\Khách Hàng Luxury.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Desktop\Khách Hàng Luxury\Khách Hàng Luxury\obj\Debug\Khách Hàng Luxury.exe
+C:\Users\ADMIN\OneDrive\Desktop\Khách Hàng Luxury\Khách Hàng Luxury\obj\Debug\Khách Hàng Luxury.pdb
+C:\Users\ADMIN\OneDrive\Desktop\Khách Hàng Luxury\Khách Hàng Luxury\obj\Debug\Khách_Hàng_Luxury.Storyboards.resources
+C:\Users\ADMIN\OneDrive\Desktop\Khách Hàng Luxury\Khách Hàng Luxury\obj\Debug\Khách_Hàng_Luxury.Form2.resources
+C:\Users\ADMIN\OneDrive\Desktop\Khách Hàng Luxury\Khách Hàng Luxury\obj\Debug\Khách_Hàng_Luxury.Form3.resources
+C:\Users\ADMIN\OneDrive\Desktop\Khách Hàng Luxury\Khách Hàng Luxury\obj\Debug\Khách_Hàng_Luxury.Form4.resources
